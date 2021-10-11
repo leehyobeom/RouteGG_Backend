@@ -4,11 +4,11 @@
 
 .env.dev 파일이 존재해야합니다. 내용은 아래와 같습니다.
 
-DB_HOST=
-DB_PORT=
-DB_USERNAME=
-DB_PASSWORD=
-DB_NAME=
+DB_HOST=  
+DB_PORT=  
+DB_USERNAME=  
+DB_PASSWORD=  
+DB_NAME=  
 
 도커 허브의 리포지토리명은
 dlgyqja104/route-gg-backend 입니다.
